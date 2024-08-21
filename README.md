@@ -1,2 +1,2 @@
 # docs
-R-Pay Docs
+MC-Pay Docs
